@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Clean the car
 Fix lamp
 Do the laundry
 Eat
+=======
+Eat
+Clean the car
+Fix lamp
+Do the laundry
+>>>>>>> d14101e8c25c3cbde61e78b8eb07adc243eaf0fa
